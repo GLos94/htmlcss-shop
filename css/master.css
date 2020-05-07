@@ -1,0 +1,29 @@
+#contenitore{
+  width: 600px;
+  height: 400px;
+  background-color: white;
+}
+
+ .primalinea{
+  width: 197px;
+  height: 266px;
+  background-color: lightgrey;
+  display: inline-block;
+  margin-bottom: 30px
+ }
+
+ .secondalinea{
+   width: 197px;
+   height: 266px;
+   background-color: lightgrey;
+   display: inline-block;
+ }
+
+img{
+  width: 70%;
+  height: 70%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20%
+}
