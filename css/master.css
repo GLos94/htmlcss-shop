@@ -37,14 +37,28 @@ img{
   left:80%;
   text-align:center;
 }
-.etichettasconto:last-child{
-  background-color: green
+
+.etichettasconto1{
+  width: 20%;
+  height:7%;
+  background-color: green;
+  position:relative;
+  bottom: 84%;
+  left:80%;
+  text-align:center;
 }
 
 .cuore{
-  text-align: center;
+text-align: center;
+display: none;
 }
-.cuore:hover{
+
+.primalinea:hover > .cuore{
+  display: block;
   color: red;
-  display: block
+}
+
+.secondalinea:hover > .cuore{
+  display: block;
+  color: red;
 }
