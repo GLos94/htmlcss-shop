@@ -27,3 +27,24 @@ img{
   margin-right: auto;
   margin-top: 20%
 }
+
+.etichettasconto{
+  width: 20%;
+  height:7%;
+  background-color: red;
+  position:relative;
+  bottom: 84%;
+  left:80%;
+  text-align:center;
+}
+.etichettasconto:last-child{
+  background-color: green
+}
+
+.cuore{
+  text-align: center;
+}
+.cuore:hover{
+  color: red;
+  display: block
+}
